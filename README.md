@@ -6,6 +6,9 @@ Tudo foi desenvolvido na plataforma databricks e exportado em diferentes formato
 Dataset should be downloaded on https://www.kaggle.com/olistbr/brazilian-ecommerce
 
 # Databricks
-https://community.cloud.databricks.com/login.html
-https://docs.databricks.com/notebooks/notebooks-manage.html#import-a-notebook
-https://docs.databricks.com/notebooks/notebooks-manage.html#import-an-archive
+
+* https://community.cloud.databricks.com/login.html
+
+* https://docs.databricks.com/notebooks/notebooks-manage.html#import-a-notebook
+
+* https://docs.databricks.com/notebooks/notebooks-manage.html#import-an-archive
