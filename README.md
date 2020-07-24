@@ -1,5 +1,6 @@
 # Analise_OLIST
 Repositório para guardar os notebooks utilizados para esta análise.
+Tudo foi desenvolvido na plataforma databricks e exportado em diferentes formatos, portanto não sei se funcionará fora dela.
 
 # Dataset
 Dataset should be downloaded on https://www.kaggle.com/olistbr/brazilian-ecommerce
